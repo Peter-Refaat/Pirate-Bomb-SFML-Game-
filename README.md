@@ -1,6 +1,6 @@
 # SFML Game Project
 
-This project is a game developed using SFML (Simple and Fast Multimedia Library) as part of my first-year college coursework in **Structured Programming** at the Faculty of Computers and Information Sciences - Ain Shams University. It was an exciting introduction to programming, where I applied foundational concepts in C++ and Physics to create a fun and interactive game.
+This is a 2D game created as part of the Structured Programming course in our first year at Ain Shams University. The game is built using C++ and the SFML library, focusing on structured programming main concepts such as structs, functions and arrays. The game also implements some OOP basic concepts.
 
 ## Project Overview
 
