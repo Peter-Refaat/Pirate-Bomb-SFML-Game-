@@ -15,6 +15,11 @@ This is a 2D game created as part of the Structured Programming course in our fi
   - Control structures (loops, conditionals).
   - Functions.
   - Structs.
+- Physics:
+  - projectile motion
+  - gravity
+  - collisions
+  - resistance force
 
 ### Installation
 
