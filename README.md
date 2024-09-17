@@ -1,6 +1,6 @@
 # SFML Game Project
 
-This is a 2D game created as part of the Structured Programming course in our first year at Ain Shams University. The game is built using C++ and the SFML library, focusing on structured programming main concepts such as structs, functions and arrays. The game also implements some OOP basic concepts.
+This is a 2D game created as part of the Structured Programming course in our first year at Ain Shams University. The game is built using C++ and the SFML library, focusing on structured programming main concepts such as structs, functions, arrays and dynamic arrays. The game also implements some OOP basic concepts.
 
 ## Project Overview
 
