@@ -13,7 +13,7 @@ This project is a game developed using SFML (Simple and Fast Multimedia Library)
 - Real-time graphics and animations using SFML.
 - Simple gameplay mechanics that demonstrate the use of structured programming principles such as:
   - Control structures (loops, conditionals).
-  - Functions for modular code.
+  - Functions.
   - Structs.
 
 ### Installation
